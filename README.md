@@ -1,10 +1,15 @@
-# DevOps Learning Repository 🚀
+# Day 3 – Git Workflow
 
-This repository contains my DevOps daily mini-projects built during hands-on learning.
+## What I learned
+- Git branches
+- Merge vs rebase
+- SSH authentication
+- Fixing non-fast-forward errors
 
-## Projects
-- Day 2: System Health Check (Bash Script)
+## Commands practiced
+- git branch
+- git checkout
+- git merge
+- git pull
+- git push
 
-Each folder contains:
-- Source code
-- Project-specific README
